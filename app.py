@@ -1207,8 +1207,8 @@ def section_about():
         st.markdown("### 👨‍💻 Creator")
     with c_footer2:
         st.markdown("**Michael Fernandes**")
-        st.caption("Quantitative Developer & Data Science Enthusiast")
-        st.caption("Powered by Streamlit | Python")
+        st.caption("Quant & Data Science Enthusiast")
+        st.caption("Linkedin: https://www.linkedin.com/in/michael-fernandes-7a3b6227a/")
 
 
 def main():
